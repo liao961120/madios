@@ -27,10 +27,10 @@ SOURCES += main.cpp \
            RDSNode.cpp \
            BasicSymbol.cpp \
            SearchPath.cpp \
-           Stringable.cpp \
+           utils/Stringable.cpp \
            SpecialLexicons.cpp \
            SignificantPattern.cpp \
            EquivalenceClass.cpp \
-           special.cpp \
-           MiscUtils.cpp \
-           TimeFuncs.cpp
+           maths/special.cpp \
+           utils/MiscUtils.cpp \
+           utils/TimeFuncs.cpp
